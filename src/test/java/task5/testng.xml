@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1" >
+    <test name="Google" >
+        <classes>
+            <class name="task5.Selenio" />
+        </classes>
+    </test>
+
+
+</suite>
